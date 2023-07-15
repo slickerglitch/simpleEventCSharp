@@ -1,0 +1,15 @@
+/Users/jkbee/Desktop/oopsEvent/bin/Debug/net7.0/oopsEvent
+/Users/jkbee/Desktop/oopsEvent/bin/Debug/net7.0/oopsEvent.deps.json
+/Users/jkbee/Desktop/oopsEvent/bin/Debug/net7.0/oopsEvent.runtimeconfig.json
+/Users/jkbee/Desktop/oopsEvent/bin/Debug/net7.0/oopsEvent.dll
+/Users/jkbee/Desktop/oopsEvent/bin/Debug/net7.0/oopsEvent.pdb
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.csproj.AssemblyReference.cache
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.AssemblyInfoInputs.cache
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.AssemblyInfo.cs
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.csproj.CoreCompileInputs.cache
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.dll
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/refint/oopsEvent.dll
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.pdb
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/oopsEvent.genruntimeconfig.cache
+/Users/jkbee/Desktop/oopsEvent/obj/Debug/net7.0/ref/oopsEvent.dll
